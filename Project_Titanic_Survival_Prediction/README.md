@@ -13,7 +13,7 @@ The primary purpose of this project is to apply data analysis and machine learni
 2. Can a predictive model be built to accurately determine if a passenger survived based on available information?
 
 ## Project Overview
-This is a classic beginner. This project analyzes the Titanic dataset to predict passenger survival and gain insights into the factors influencing survival rates. It follows a structured process that includes data exploration and visualization, preprocessing, model building, model evaluation, and validation.
+This is a classic for beginners. This project analyzes the Titanic dataset to predict passenger survival and gain insights into the factors influencing survival rates. It follows a structured process that includes data exploration and visualization, preprocessing, model building, model evaluation, and validation.
 
 ## About the Dataset
 The dataset was downloaded from Kaggle. It contains information about individual passengers, such as their age, gender, ticket, class, fare, cabin, and whether or not they survived. In total, there are 12 columns and 418 rows in this particular dataset.
@@ -22,9 +22,9 @@ The dataset was downloaded from Kaggle. It contains information about individual
 
 2. Survived: This column represents whether the passenger survived or not. 0 means non-survivor, and 1 means survivor. There is no missing value.
 
-3. PClass: Also referred to as Passenger Class. There are 3 unique values in this column; it contains information about the class of the ticket purchased by the passenger. 1st class, 2nd class, and 3rd class.
+3. Pclass: Also referred to as Passenger Class. There are 3 unique values in this column; it contains information about the class of the ticket purchased by the passenger. 1st class, 2nd class, and 3rd class.
 
-4. Name: Names of the passenger and their title.
+4. Name: Names of the passengers and their titles
 
 5. Sex: This column contains information on the gender of the passengers, male or female.
 
@@ -38,9 +38,9 @@ The dataset was downloaded from Kaggle. It contains information about individual
 
 10. Fare: The amount paid for the ticket.
 
-11. Cabin: The cabin number where the passenger stayed (if available). There are about 341 missing values in this column.
+11. Cabin: The cabin number where the passenger stayed (if available). There are about 327 missing values in this column.
 
-12. Embarked: The port of embarkation is the point where they entered the ship for the passenger.
+12. Embarked: The port of embarkation is the point where the passenger entered the ship.
 C: Cherbourg, Q: Queenstown, and S: Southampton.
 
 ## Process
