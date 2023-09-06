@@ -64,7 +64,6 @@ splitting data into training and testing sets.
 Building predictive models to predict passenger survival.
 Implemented models:
 Logistic Regression
-Random Forest
 Gradient booster
 
 5. Model Evaluation:
