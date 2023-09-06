@@ -44,42 +44,37 @@ The dataset was downloaded from Kaggle. It contains information about individual
 C: Cherbourg, Q: Queenstown, and S: Southampton.
 
 ## Process
-1. Data Exploration
+1. Data Exploration:
 The project begins by loading and exploring the Titanic dataset.
 Key steps:
 Exploring dataset dimensions and structure
 handling missing values.
 
-2. Data Visualization
+2. Data Visualization:
 This involves a graphical representation of the data.
 Visualizing data distributions and relationships using Matplotlib and Seaborn
 
-3. Data Preprocessing
+3. Data Preprocessing:
 Preprocessing is crucial for preparing data for machine learning models.
 Key preprocessing steps:
 - Encoding categorical features.
 splitting data into training and testing sets.
 
-4. Model Building
+4. Model Building:
 Building predictive models to predict passenger survival.
 Implemented models:
 Logistic Regression
 Random Forest
 Gradient booster
 
-5. Model Evaluation
+5. Model Evaluation:
 Evaluating model performance was done using relevant metrics.
 Metrics used include accuracy and F1-score.
 comparing models to select the best-performing one.
 
-6. Model Validation
+6. Model Validation:
 The dataset was small, and there was a need to use a technique called cross-validation.
 Cross-validation helps to test the performance of a machine-learning model on different subsets of the training data.
-
-7. Conclusion and Insights
-summarizing the findings and insights gained from the analysis.
-Identifying the most influential factors in passenger survival
-discussing limitations and potential areas for further exploration.
 
 ## Usage
 1. Clone this repository: `git clone https://github.com/Cheannel/CODSOFT.git`
