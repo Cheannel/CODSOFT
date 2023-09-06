@@ -58,7 +58,7 @@ Visualizing data distributions and relationships using Matplotlib and Seaborn
 Preprocessing is crucial for preparing data for machine learning models.
 Key preprocessing steps:
 - Encoding categorical features.
-splitting data into training and testing sets.
+- Splitting data into training and testing sets.
 
 4. Model Building:
 Building predictive models to predict passenger survival.
