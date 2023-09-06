@@ -62,9 +62,8 @@ Key preprocessing steps:
 
 4. Model Building:
 Building predictive models to predict passenger survival.
-
 Implemented models:
-- Logistic Regression
+- Logistic Regression and
 - Gradient booster
 
 5. Model Evaluation:
