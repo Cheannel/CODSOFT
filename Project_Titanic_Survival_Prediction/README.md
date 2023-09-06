@@ -38,7 +38,7 @@ The dataset was downloaded from Kaggle. It contains information about individual
 
 10. Fare: The amount paid for the ticket.
 
-11. Cabin: The cabin number where the passenger stayed (if available). There are about 327 missing values in this column.
+11. Cabin: The cabin number where the passenger stayed. There are about 327 missing values in this column.
 
 12. Embarked: The port of embarkation is the point where the passenger entered the ship.
 C: Cherbourg, Q: Queenstown, and S: Southampton.
@@ -104,7 +104,7 @@ The gender of passengers played a pivotal role, with a significantly higher surv
 Passenger class was another key factor, with first-class (1) passengers having a better chance of survival compared to those in lower classes.
 Age was also a contributing factor, with children having a higher likelihood of survival.
 
-The predictive models, including Logistic Regression, Random Forest, and Gradient Booster, demonstrated the same degrees of success in forecasting survival.
+The predictive models, including Logistic Regression and Gradient Booster, demonstrated the same degrees of success in forecasting survival.
 
 However, it's crucial to assert the impediments of the analysis done in this project. The dataset size was relatively small, and some cabin data was missing, which was later dropped. The survived column had only one category for each gender, which could have influenced the results.
 
