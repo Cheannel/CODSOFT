@@ -5,16 +5,16 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Why IRIS Flowers](## Why IRIS Flowers?)
-- [Purpose](# Purpose)
+- [Why IRIS Flowers](#Why IRIS Flowers?)
+- [Purpose](#Purpose)
 - [Project Overview](#Project Overview)
-- [About Dataset](# About Dataset)
-- [Data Exploration](# Data Exploration)
-- [Data Visualization](# Data Visualization)
-- [Data Preprocessing](# Data Preprocessing)
-- [Model Selection and Training](# Model Selection and Training)
-- [Confusion Matrix on Model Evaluation](# Confusion Matrix on Model Evaluation)
-- [Model Validation](#Model Validation)
+- [About Dataset](#About Dataset)
+- [Data Exploration](#Data Exploration)
+- [Data Visualization](#Data Visualization)
+- [Data Preprocessing](#Data Preprocessing)
+- [Model Selection and Training](#Model Selection and Training)
+- [Confusion Matrix on Model Evaluation](#Confusion Matrix on Model Evaluation)
+- [Model Validation](#ModelValidation)
 
 
 # Introduction
