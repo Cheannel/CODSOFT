@@ -4,16 +4,22 @@
 ## Project Name: Iris Flower Classification
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Why IRIS Flowers](#Why IRIS Flowers?)
+- [Why IRIS Flowers](#Why-IRIS-Flowers?)
 - [Purpose](#Purpose)
-- [Project Overview](#Project Overview)
+- [Project Overview](#Project-Overview)
 - [About Dataset](#About Dataset)
-- [Data Exploration](#Data Exploration)
-- [Data Visualization](#Data Visualization)
-- [Data Preprocessing](#Data Preprocessing)
-- [Model Selection and Training](#Model Selection and Training)
-- [Confusion Matrix on Model Evaluation](#Confusion Matrix on Model Evaluation)
+- [Data Exploration](#Data-Exploration)
+- [Data Visualization](#Data-Visualization)
+- [Data Preprocessing](#Data-Preprocessing)
+- [Model Selection and Training](#Model-Selection-and-Training)
+- [Confusion Matrix on Model Evaluation](#Confusion-Matrix-on-Model-Evaluation)
 - [Model Validation](#Model-Validation)
+- [Conclusion](#Conclusion)
+- [Usage](#Usage)
+- [Data Sources](#Data-Sources)
+- [Technologies Used](#Technologies Used)
+- [Author](#Author)
+- [Project Status](Project Status)
 
 
 # Introduction
