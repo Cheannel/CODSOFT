@@ -1,8 +1,7 @@
-# CodSodt Internship
+# CodSoft Internship
 ## Author's Name: Immaculata Chiamaka Lughas
 
-## Project Name: Titanic Survival Prediction
-
+## Project Name: Iris Flower Classification
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Why IRIS Flowers](#Why IRIS Flowers?)
@@ -14,7 +13,7 @@
 - [Data Preprocessing](#Data Preprocessing)
 - [Model Selection and Training](#Model Selection and Training)
 - [Confusion Matrix on Model Evaluation](#Confusion Matrix on Model Evaluation)
-- [Model Validation](#Model#Validation)
+- [Model Validation](#Model.Validation)
 
 
 # Introduction
