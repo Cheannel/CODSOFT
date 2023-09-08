@@ -31,33 +31,33 @@ This is a classic for beginners. This project analyzes the Titanic dataset to pr
 ## About the Dataset
 The dataset was downloaded from Kaggle. It contains information about individual passengers, such as their age, gender, ticket, class, fare, cabin, and whether or not they survived. In total, there are 12 columns and 418 rows in this particular dataset.
 
-1. PassengerId: This column contains the passenger's ID. There is no missing value. This is the unique identifier of the passenger.
+1. **PassengerId**: This column contains the passenger's ID. There is no missing value. This is the unique identifier of the passenger.
 
-2. Survived: This column represents whether the passenger survived or not. 0 means non-survivor, and 1 means survivor. There is no missing value.
+2. **Survived**: This column represents whether the passenger survived or not. 0 means non-survivor, and 1 means survivor. There is no missing value.
 
-3. Pclass: Also referred to as Passenger Class. There are 3 unique values in this column; it contains information about the class of the ticket purchased by the passenger. 1st class, 2nd class, and 3rd class.
+3. **Pclass**: Also referred to as Passenger Class. There are 3 unique values in this column; it contains information about the class of the ticket purchased by the passenger. 1st class, 2nd class, and 3rd class.
 
-4. Name: Names of the passengers and their titles
+4. **Name**: Names of the passengers and their titles
 
-5. Sex: This column contains information on the gender of the passengers, male or female.
+5. **Sex**: This column contains information on the gender of the passengers, male or female.
 
-6. Parch: This shows the number of parents or children aboard the Titanic.
+6. **Parch**: This shows the number of parents or children aboard the Titanic.
 
-7. SibSp: This column contains the number of siblings or spouses aboard the Titanic.
+7. **SibSp**: This column contains the number of siblings or spouses aboard the Titanic.
 
-8. Age: The age of the passenger
+8. **Age**: The age of the passenger
 
-9. Ticket: This column contains the details of the ticket number.
+9. **Ticket**: This column contains the details of the ticket number.
 
-10. Fare: The amount paid for the ticket.
+10. **Fare**: The amount paid for the ticket.
 
-11. Cabin: The cabin number where the passenger stayed. There are about 327 missing values in this column.
+11. **Cabin**: The cabin number where the passenger stayed. There are about 327 missing values in this column.
 
-12. Embarked: The port of embarkation is the point where the passenger entered the ship.
+12. **Embarked**: The port of embarkation is the point where the passenger entered the ship.
 C: Cherbourg, Q: Queenstown, and S: Southampton.
 
 ## Process
-1. Data Exploration:
+#### 1. Data Exploration:
 The project begins by loading and exploring the Titanic dataset.
 Key steps:
 Exploring dataset dimensions and structure
