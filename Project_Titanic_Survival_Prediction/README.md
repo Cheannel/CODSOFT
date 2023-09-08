@@ -8,7 +8,7 @@
 - [Introduction and Purpose](#Introduction-and-Purpose)
 - [Purpose](#Purpose)
 - [Project Overview](#Project-Overview)
-- [About Dataset] (#About-Dataset)
+- [About Dataset](#About-Dataset)
 - [Process](#Process)
 - [Conclusion](#Conclusion)
 - [Usage](#Usage)
