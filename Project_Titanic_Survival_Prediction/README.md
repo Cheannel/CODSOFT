@@ -1,4 +1,5 @@
 
+
 # Program: CodSodt Internship
 
 # Author: Immaculata Chiamaka Lughas
@@ -38,11 +39,7 @@ The dataset was downloaded from Kaggle. It contains information about individual
 
 10. Fare: The amount paid for the ticket.
 
-<<<<<<< HEAD
-11. Cabin: The cabin number where the passenger stayed (if available). There are about 327 missing values in this column.
-=======
 11. Cabin: The cabin number where the passenger stayed. There are about 327 missing values in this column.
->>>>>>> 3312b7cdcc4a7cd56440a6159ee3f82576291328
 
 12. Embarked: The port of embarkation is the point where the passenger entered the ship.
 C: Cherbourg, Q: Queenstown, and S: Southampton.
