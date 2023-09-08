@@ -63,28 +63,28 @@ Key steps:
 Exploring dataset dimensions and structure
 handling missing values.
 
-2. Data Visualization:
+#### 2. Data Visualization:
 This involves a graphical representation of the data.
 Visualizing data distributions and relationships using Matplotlib and Seaborn
 
-3. Data Preprocessing:
+#### 3. Data Preprocessing:
 Preprocessing is crucial for preparing data for machine learning models.
 Key preprocessing steps:
 - Encoding categorical features.
 - Splitting data into training and testing sets.
 
-4. Model Building:
+#### 4. Model Building:
 Building predictive models to predict passenger survival.
 Implemented models:
 - Logistic Regression and
 - Gradient booster
 
-5. Model Evaluation:
+#### 5. Model Evaluation:
 Evaluating model performance was done using relevant metrics.
 Metrics used include accuracy and F1-score.
 comparing models to select the best-performing one.
 
-6. Model Validation:
+#### 6. Model Validation:
 The dataset was small, and there was a need to use a technique called cross-validation.
 Cross-validation helps to test the performance of a machine-learning model on different subsets of the training data.
 
@@ -102,13 +102,13 @@ The dataset used for this project is sourced from Kaggle (https://www.kaggle.com
 - Numpy
 - Matplotlib
 - Seaborn
-Jupyter Notebook (Anaconda)
+- Jupyter Notebook (Anaconda)
 
 ## Conclusion
 In conclusion, my analysis of the Titanic dataset has provided valuable insights into the factors that influenced passenger survival during the tragic sinking of the RMS Titanic in 1912. I have discovered trends and patterns in the relationship between the features.
 
 The gender of passengers played a pivotal role, with a significantly higher survival rate among females.
-Passenger class was another key factor, with first-class (1) passengers having a better chance of survival compared to those in lower classes.
+Passenger class was another key factor, with first-class (1) passengers having a better chance of survival compared to those in lower classes. This is because almost half of the passengers in first class survived.
 Age was also a contributing factor, with children having a higher likelihood of survival.
 
 The predictive models, including Logistic Regression and Gradient Booster, demonstrated the same degrees of success in forecasting survival.
