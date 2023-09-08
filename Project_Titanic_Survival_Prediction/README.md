@@ -5,12 +5,11 @@
 # Project Name: Titanic Survival Prediction
 
 # Table of Contents
-- [Introduction and Purpose](#Introduction and Purpose)
+- [Introduction and Purpose](#Introduction-and-Purpose)
 - [Purpose](#Purpose)
 - [Project Overview](#Project-Overview)
 - [About Dataset] (#About-Dataset)
 - [Process](#Process)
-- Process
 - [Conclusion](#Conclusion)
 - [Usage](#Usage)
 - [Data Sources](#Data-Sources)
