@@ -1,10 +1,10 @@
-
-
 # Program: CodSodt Internship
 
 # Author: Immaculata Chiamaka Lughas
 
 # Project Name: Titanic Survival Prediction
+
+# Table of Contents
 
 ## Introduction and Purpose
 This project delves into the historical data of the ill-fated RMS Titanic, aiming to uncover hidden insights and make predictions about passenger survival. The sinking of the Titanic in 1912 was a tragic event, and this project serves as a tribute to those who were on board.
