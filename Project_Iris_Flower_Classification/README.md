@@ -49,24 +49,19 @@ Loading the dataset: pandas.read_csv('IRIS_csv'); this command loads a dataset i
  Exploring dataset dimensions and structure: Functions like info(), describe(), unique(), tail(), head(), and others
   
 # Data Visualization 
-  This involves a graphical representation of the data to present key relationships between species and the features provided.
-  Visualizing data distributions and relationships using Matplotlib and Seaborn: A good number of plots were explored to show the distribution of the features against the species. 
+  This involves a graphical representation of the data to present key relationships between species and the features provided. I also Visualized data distributions and relationships using Matplotlib and Seaborn: A good number of plots were explored to show the distribution of the features against the species. 
 
 # Data Preprocessing
 Preprocessing is crucial for preparing data for machine learning models.
 The preprocessing steps include:
-Scaling numerical features: The feature data were scaled to ensure that all input features were on a common scale.
-Train-test Splitting: The scaled dataset was split into training and testing sets. The purpose of this is to evaluate how well the machine learning model generalizes to new data.
+- Scaling numerical features: The feature data were scaled to ensure that all input features were on a common scale.
+- Train-test Splitting: The scaled dataset was split into training and testing sets. The purpose of this is to evaluate how well the machine learning model generalizes to new data.
 
 # Model Selection and Training 
 Three different machine learning algorithms were used during this project to 
-- Model 1: Random Forest Classifier
-I used the Random Forest Classifier because it often provides better accuracy and generalization compared to a single decision tree.
-
-- Model 2: KNeighbors Classifier
-KNeighbors Classifier is an implementation of K-Nearest Neighbors.
-- Model 3: Logistic Regression
-Logistic Regression is simple to implement and interpret.
+- Model 1: Random Forest Classifier: I used the Random Forest Classifier because it often provides better accuracy and generalization compared to a single decision tree.
+- Model 2: KNeighbors Classifier: KNeighbors Classifier is an implementation of K-Nearest Neighbors.
+- Model 3: Logistic Regression: Logistic Regression is simple to implement and interpret.
 
 
 Model training: The models were trained on the scaled training data. I compared the models to select the best-performing one.
@@ -76,12 +71,28 @@ Model training: The models were trained on the scaled training data. I compared 
 The performance of the model on the scaled testing data was evaluated using relevant metrics.
 The metrics used include:
 - Accuracy, 
-- Confusion matrix: This helped to show the true positive, true negative, false positive, and false negative predictions of the Iris flower classification model.
 - Precision, recall, and F1-score
+- Confusion matrix
 
 ## Confusion Matrix on Model Evaluation
-The Confusion Matrix helped to show the true positive, true negative, false positive, and false negative predictions of the Iris flower classification model.
-- Data visualization was done to display the Confusion matrix.
+Data visualization was done to display the Confusion matrix.
+The confusion matrix demonstrates how effectively a model performs for a three-class, multi-class classification task. It displays the number of cases for each class that were successfully classified (true positives and true negatives) and the number that were incorrectly classified (false positives and false negatives).
+
+
+1. Row 1 (True Class 0)
+ - True Negatives (TN): 7 cases were accurately predicted as Class 0.
+ - False Positives (FP): No occurrences from any other classes were misclassified as Class 0.
+ - False Negatives (FN): Class 0 instances were predicted as belonging to different classes in error.
+
+2. Row 2 (True Class 1)
+ - True Positives (TP): 8 cases were accurately classified as Class 1 in Row 2 (True Class 1).
+ - False Positives (FP): One occurrence from a different class was misclassified as belonging to Class 1.
+ - False Negatives (FN): No occurrences of Class 1 were misclassified as belonging to another class.
+
+3. True Class 2 Row 3
+ - True Negatives (TN): 14 cases were projected to be Class 2 with accuracy.
+ - False Positives (FP): No instances from any other classes were misclassified as Class 2.
+ - False Negatives (FN): No instances of Class 2 were incorrectly predicted as other classes.
 
 # Model Validation
 The dataset was small, and there was a need to use a technique called cross-validation.
