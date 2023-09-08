@@ -46,7 +46,9 @@ petal_length and petal_width: Both columns contain information about the sizes (
 The project begins by loading and exploring the Iris Flower dataset.
 
 Loading the dataset: pandas.read_csv('IRIS_csv'); this command loads a dataset in a CSV file format.
- Exploring dataset dimensions and structure: Functions like info(), describe(), unique(), tail(), head(), and others
+![iris-load](https://github.com/Cheannel/CODSOFT/assets/111801727/19507c37-33cc-4553-9c41-24936005da42)
+
+Exploring dataset dimensions and structure: Functions like info(), describe(), unique(), tail(), head(), and others
   
 # Data Visualization 
   This involves a graphical representation of the data to present key relationships between species and the features provided. I also Visualized data distributions and relationships using Matplotlib and Seaborn: A good number of plots were explored to show the distribution of the features against the species. 
@@ -77,6 +79,9 @@ The metrics used include:
 ## Confusion Matrix on Model Evaluation
 Data visualization was done to display the Confusion matrix.
 The confusion matrix demonstrates how effectively a model performs for a three-class, multi-class classification task. It displays the number of cases for each class that were successfully classified (true positives and true negatives) and the number that were incorrectly classified (false positives and false negatives).
+
+![iris-cm](https://github.com/Cheannel/CODSOFT/assets/111801727/5e4627da-12fc-46b5-a555-212fb6cae637)
+
 
 
 1. Row 1 (True Class 0)
