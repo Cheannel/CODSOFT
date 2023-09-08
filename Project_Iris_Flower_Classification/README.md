@@ -3,6 +3,20 @@
 
 ## Project Name: Titanic Survival Prediction
 
+## Table of Contents
+[Introduction](#Introduction)
+[Why IRIS Flowers](# Why IRIS Flowers)
+[Purpose](#purpose)
+[Project Overview](# Project Overview)
+[About Dataset](# About Dataset)
+[Data Exploration](# Data Exploration)
+[Data Visualization](# Data Visualization)
+[Data Preprocessing](# Data Preprocessing)
+[Model Selection and Training](# Model Selection and Training)
+[Confusion Matrix on Model Evaluation](# Confusion Matrix on Model Evaluation)
+[Model Validation](#Model Validation)
+
+
 # Introduction
 The IRIS Flower Classification project is an effort in machine learning to resolve a classic classification problem that involves distinguishing between three IRIS flower species. They include Setosa, Versicolor, and Virginica, respectively. 
 This study shows how several machine learning algorithms and methodologies can be applied to this goal.
@@ -81,7 +95,6 @@ Data visualization was done to display the Confusion matrix.
 The confusion matrix demonstrates how effectively a model performs for a three-class, multi-class classification task. It displays the number of cases for each class that were successfully classified (true positives and true negatives) and the number that were incorrectly classified (false positives and false negatives).
 
 ![iris-cm](https://github.com/Cheannel/CODSOFT/assets/111801727/5e4627da-12fc-46b5-a555-212fb6cae637)
-
 
 
 1. Row 1 (True Class 0)
