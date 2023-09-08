@@ -1,8 +1,8 @@
 # CodSoft Internship
-## Author's Name: Immaculata Chiamaka Lughas
+# Author's Name: Immaculata Chiamaka Lughas
 
-## Project Name: Iris Flower Classification
-## Table of Contents
+# Project Name: Iris Flower Classification
+# Table of Contents
 - [Introduction](#Introduction)
 - [Why IRIS Flowers](#Why-IRIS-Flowers?)
 - [Purpose](#Purpose)
@@ -140,7 +140,7 @@ To learn more about the performance of the models, crucial visuals like confusio
 # Data Sources
 - The dataset used for this project is sourced from Kaggle (https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
-## Technologies Used
+# Technologies Used
 - Python
 - Pandas
 - Numpy
@@ -153,10 +153,10 @@ Although I have successfully classified iris flowers, there is always room for i
 
 It will be my responsibility to employ the top-performing model in real-world applications, such as automating the classification of Iris flower species.
 
-## Author
+# Author
 [Immaculata Lughas] (https://github.com/Cheannel)
 
-## Project Status
+# Project Status
 Work in progress.
 
 
