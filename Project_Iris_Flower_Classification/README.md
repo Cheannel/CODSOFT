@@ -17,9 +17,9 @@
 - [Conclusion](#Conclusion)
 - [Usage](#Usage)
 - [Data Sources](#Data-Sources)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies-Used)
 - [Author](#Author)
-- [Project Status](Project Status)
+- [Project Status](Project-Status)
 
 
 # Introduction
