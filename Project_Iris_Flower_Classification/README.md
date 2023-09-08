@@ -4,17 +4,17 @@
 ## Project Name: Titanic Survival Prediction
 
 ## Table of Contents
-[Introduction](#Introduction)
-[Why IRIS Flowers](# Why IRIS Flowers)
-[Purpose](#purpose)
-[Project Overview](# Project Overview)
-[About Dataset](# About Dataset)
-[Data Exploration](# Data Exploration)
-[Data Visualization](# Data Visualization)
-[Data Preprocessing](# Data Preprocessing)
-[Model Selection and Training](# Model Selection and Training)
-[Confusion Matrix on Model Evaluation](# Confusion Matrix on Model Evaluation)
-[Model Validation](#Model Validation)
+- [Introduction](#Introduction)
+- [Why IRIS Flowers](## Why IRIS Flowers?)
+- [Purpose](# Purpose)
+- [Project Overview](#Project Overview)
+- [About Dataset](# About Dataset)
+- [Data Exploration](# Data Exploration)
+- [Data Visualization](# Data Visualization)
+- [Data Preprocessing](# Data Preprocessing)
+- [Model Selection and Training](# Model Selection and Training)
+- [Confusion Matrix on Model Evaluation](# Confusion Matrix on Model Evaluation)
+- [Model Validation](#Model Validation)
 
 
 # Introduction
