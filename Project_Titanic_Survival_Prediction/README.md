@@ -22,7 +22,7 @@ The dataset was downloaded from Kaggle. It contains information about individual
 
 2. Survived: This column represents whether the passenger survived or not. 0 means non-survivor, and 1 means survivor. There is no missing value.
 
-3. PClass: Also referred to as Passenger Class. There are 3 unique values in this column; it contains information about the class of the ticket purchased by the passenger. 1st class, 2nd class, and 3rd class.
+3. Pclass: Also referred to as Passenger Class. There are 3 unique values in this column; it contains information about the class of the ticket purchased by the passenger. 1st class, 2nd class, and 3rd class.
 
 4. Name: Names of the passenger and their title.
 
@@ -38,7 +38,7 @@ The dataset was downloaded from Kaggle. It contains information about individual
 
 10. Fare: The amount paid for the ticket.
 
-11. Cabin: The cabin number where the passenger stayed (if available). There are about 341 missing values in this column.
+11. Cabin: The cabin number where the passenger stayed (if available). There are about 327 missing values in this column.
 
 12. Embarked: The port of embarkation is the point where they entered the ship for the passenger.
 C: Cherbourg, Q: Queenstown, and S: Southampton.
