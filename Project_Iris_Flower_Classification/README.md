@@ -14,7 +14,7 @@
 - [Data Preprocessing](#Data Preprocessing)
 - [Model Selection and Training](#Model Selection and Training)
 - [Confusion Matrix on Model Evaluation](#Confusion Matrix on Model Evaluation)
-- [Model Validation](#Model_Validation)
+- [Model Validation](#Model#Validation)
 
 
 # Introduction
