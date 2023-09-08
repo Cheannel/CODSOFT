@@ -5,6 +5,19 @@
 # Project Name: Titanic Survival Prediction
 
 # Table of Contents
+- [Introduction and Purpose](#Introduction and Purpose)
+- [Purpose](#Purpose)
+- [Project Overview](#Project-Overview)
+- [About Dataset] (#About-Dataset)
+- [Process](#Process)
+- Process
+- [Conclusion](#Conclusion)
+- [Usage](#Usage)
+- [Data Sources](#Data-Sources)
+- [Technologies Used](#Technologies-Used)
+- [Conclusion](#Conclusion)
+- [Author](#Author)
+- [Project Status](Project-Status)
 
 ## Introduction and Purpose
 This project delves into the historical data of the ill-fated RMS Titanic, aiming to uncover hidden insights and make predictions about passenger survival. The sinking of the Titanic in 1912 was a tragic event, and this project serves as a tribute to those who were on board.
