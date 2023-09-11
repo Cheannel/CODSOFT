@@ -8,4 +8,5 @@ A Data Science Internship Program by CodSoft. The duration of the internship was
 There are several projects done during this period of time. They include:
  1. Titanic Prediction
  2. Iris Flower Classification
+ 3. Sales Prediction 
 
